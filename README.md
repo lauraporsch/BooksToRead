@@ -1,5 +1,5 @@
 # BooksToRead
-Python based application that scrapes the "New Release" section of goodreads.com and saves the books into a CSV file
+Python based script that scrapes the "New Release" section of goodreads.com and saves the books into a CSV file
 
 The "New Realease" section is updated every week and is built with a dynamic URL.
 Therefore I used Selenium to navigate to the corresponding URL. 

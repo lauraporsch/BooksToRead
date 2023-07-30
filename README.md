@@ -3,7 +3,7 @@ Python based script that scrapes the "New Release" section of goodreads.com and 
 
 The "New Realease" section is updated every week and is built with a dynamic URL.
 Therefore I used Selenium to navigate to the corresponding URL. 
-The data then gets scraped using BeautifulSoup library.
+The data of the Top 15 books then gets scraped using BeautifulSoup library.
 
 ## What I learned / used for the first time:
 - Automating the webiste-navigation process, using Selenium Webdriver
